@@ -1,0 +1,56 @@
+#main {
+    background-color: beige;
+    text-align: center;
+    font-family: 'PT Serif', serif;    
+}
+
+#title {    
+    margin-top: 50px;
+    font-family: 'PT Serif', serif;
+    font-size: 30px;
+    color: midnightblue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+img {
+    max-width: 30%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {    
+    font-size: 9px;
+    color: midnightblue;
+}
+
+#tribute-info {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    font-size: 14px;
+    color: midnightblue;
+    line-height: 1.7;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    max-width: 500px;
+}
+
+ul {
+    text-align: left;       
+}
+
+p {
+    font-size: 18px;
+    margin: 12px 12px 12px 12px;
+}
+
+li {
+    margin: 12px 12px 12px 12px;
+}
+
+a:hover {
+    color: green;
+}
